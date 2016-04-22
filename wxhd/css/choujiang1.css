@@ -1,0 +1,8 @@
+body{background: #7cbbdc;position: relative;}
+.out2{background: url('../images/bg01.jpg') 0 0 no-repeat;width: 640px;height:1008px;margin:0 auto;background-size: 100% 100%;}
+.cj_kouhao{margin:39px 0px 26px;text-align: center;}
+.cj_kh1{font-size: 50px;color: #00266b;}
+.cj_kh2{font-size: 28px;color: #666664;}
+.cj_pics{margin:0 auto;width: 597px;height: 554px;overflow: hidden;}
+.cj_pics li{float: left;}
+.cj_pics li:hover{opacity: 0.5;filter: alpha(opacity=50);}

@@ -1,0 +1,17 @@
+body{background: #7cbbdc;position: relative;}
+#out_cwzj{background: url('../images/bg01.jpg') 0 0 no-repeat;width: 640px;padding-top:35px;height:973px;margin:0 auto;background-size: 100% 100%;}
+#out_cwzj .cwzj_top{color:#d4002b;font-size: 50px;font-weight: bolder;text-align: center;}
+#out_cwzj .zj_gg{margin:0 auto;font-size: 28px;color: #686762;margin-top: 33px;margin-bottom: 22px;;width: 556px;}
+#czk_pic{display: block;width: 564px;height: 321px;margin: 0px auto 35px;}
+p{font-size: 28px;color: #686762;margin-left: 37px;}
+#cz_numb{margin-top: 20px;margin-left: 37px;width: 453px;height: 76px;font-size: 70px;line-height: 76px;padding:5px 5px 5px 100px;background: url('../images/shuru2.jpg') 0 0 no-repeat;}
+.cwzj_tjbtn{margin:0 auto;margin-top: 16px;width: 433px;height:97px;line-height: 97px;font-size: 40px;text-align: center;color: #f2fffc;font-style: italic;font-weight: bold;background: url('../images/btn01.png') 0 0 no-repeat;}
+
+.share_links{padding-left: 54px;width: 586px;height: 68px;position: absolute;left: 0px;bottom: 63px;}
+.share_links span{margin-right: 31px;float:left;line-height: 68px;color: #5f6867;font-size: 30px;}
+.share_links img{margin-right: 24px;float:left;}
+
+.fc{display: none;position: absolute;top:0px;left:0px;background: #000;filter: alpha(opacity=50);opacity: 0.5;z-index: 1;width:100%;height: 100%;}
+.tijiaohou{display: none;border-radius: 28px;border:#05276f solid 8px;position: absolute;top:119px;left:20px;z-index: 2;background: #fff;width: 550px;height: 707px;margin: 0 auto;padding-top: 46px;}
+.tijiaohou h1{font-weight: bold;color:#00296d;font-size: 66px;text-align: center;width: 350px;display: block;margin:0 auto;}
+.cwzj_tjh_zdl{width: 433px;height:97px;position: absolute;left: 72px;bottom: 200px;line-height: 97px;font-size: 40px;text-align: center;color: #f2fffc;font-style: italic;font-weight: bold;background: url('../images/btn01.png') 0 0 no-repeat;}

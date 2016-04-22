@@ -1,0 +1,23 @@
+body{background: #7cbbdc;position: relative;}
+#out3{background: url('../images/bg01.jpg') 0 0 no-repeat;width: 640px;height:1008px;margin:0 auto;background-size: 100% 100%;}
+#khjkh{position: absolute;top: 54px;left: 154px;}
+#khj_con{width: 598px;height: 623px;position: absolute;top: 130px;left: 22px;padding-top: 31px;}
+#khj_con span{color: #696864;font-size: 25px;line-height: 35px;}
+#zl_input{margin: 28px 0px 35px;}
+.zlipt_kong{height: 7px;}
+#zl_input input{font-size:60px;width: 489px;height: 86px;line-height: 86px;padding-left: 100px;padding-right: 5px;}
+.ipt1{background: url('../images/shuru1.jpg') 0 0 no-repeat;}
+.ipt2{background: url('../images/shuru2.jpg') 0 0 no-repeat;}
+
+#zl_tj{width: 433px;height:97px;position: absolute;left: 106px;bottom: 182px;line-height: 97px;font-size: 40px;text-align: center;color: #f2fffc;font-style: italic;font-weight: bold;background: url('../images/btn01.png') 0 0 no-repeat;}
+#zly_fx{vertical-align: middle;position: absolute;bottom: 0px;left: 0px;width:560px;height: 68px;line-height: 68px;}
+
+#zl_guize{position: absolute;left: 185px;bottom: 115px;width: 150px;margin:0 auto;font-weight: bold;font-size: 36px;color:#0038a3;text-decoration: underline;font-style: italic;}
+.fc{display: none;position: absolute;top:0px;left:0px;background: #000;filter: alpha(opacity=50);opacity: 0.5;z-index: 1;width:100%;height: 100%;}
+.guize_con{display: none;border-radius: 28px;border:#05276f solid 8px;position: absolute;top:119px;left:20px;z-index: 2;background: #fff;width: 550px;height: 707px;margin: 0 auto;padding-top: 46px;padding-left: 32px;}
+.btns2{width: 433px;height:97px;position: absolute;left: 72px;bottom: 37px;line-height: 97px;font-size: 40px;text-align: center;color: #f2fffc;font-style: italic;font-weight: bold;background: url('../images/btn01.png') 0 0 no-repeat;}
+.tijiaohou{display: none;border-radius: 28px;border:#05276f solid 8px;position: absolute;top:119px;left:20px;z-index: 2;background: #fff;width: 550px;height: 707px;margin: 0 auto;padding-top: 46px;}
+.tijiaohou h1{font-weight: bold;color:#00296d;font-size: 66px;text-align: center;width: 350px;display: block;margin:0 auto;}
+.bjbs{width: 433px;height:97px;position: absolute;left: 72px;bottom: 200px;line-height: 97px;font-size: 40px;text-align: center;color: #f2fffc;font-style: italic;font-weight: bold;background: url('../images/btn01.png') 0 0 no-repeat;}
+
+.fenxiangceng{position:absolute;top:0;right:0;display: none;z-index: 2;}

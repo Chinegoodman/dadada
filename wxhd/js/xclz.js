@@ -1,0 +1,29 @@
+$('#zl_guize').click(function  () {
+	$('.fc').css('display','block');
+	$('.guize_con').css('display','block');
+})
+$('.btns2').click(function(){
+	$('.fc').css('display','none');
+	$('.guize_con').css('display','none');
+})
+$('#zl_tj').click(function(){
+	$('.fc').css('display','block');
+	$('.tijiaohou').css('display','block');
+})
+$('.bjbs').click(function(){
+	$('.fc').css('display','none');
+	$('.tijiaohou').css('display','none');
+})
+
+$('.fenxiangcengbtn').click(function(){
+	$('.fc').css('display','block');
+	$('.fenxiangceng').css('display','block');
+	$('.fc').click(function(){
+		$('.fc').css('display','none');
+		$('.fenxiangceng').css('display','none');
+	})
+	$('.fenxiangceng').click(function(){
+		$('.fc').css('display','none');
+		$('.fenxiangceng').css('display','none');
+	})
+})

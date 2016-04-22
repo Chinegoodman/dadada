@@ -1,0 +1,7 @@
+body{background: #7cbbdc;position: relative;}
+#out_wzj{background: url('../images/bg01.jpg') 0 0 no-repeat;width: 640px;height:1008px;margin:0 auto;background-size: 100% 100%;}
+#kongtiao_wzj{height: 62px;width: 640px;}
+
+p{font-size: 66px;line-height: 66px;text-align: center;color:#c90a12;font-weight: bold;}
+#bq_txt{line-height: 50px;width: 560px;margin:0 auto;margin-top: 50px;font-size: 35px;color:#6a7370;}
+#bq_txt span{color:#113373;font-size: 36px;font-weight: bolder;}
